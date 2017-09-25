@@ -61,4 +61,4 @@ Every new version will post here in the same repository like this name ```AutoUp
             }
 ```
 ## Authors
-* **Qais Bsharat** - *Programmer* - [Qais Bsharat](https://github.com/Darkstone2)
+* **Qais Bsharat** - *Developer* - [Qais Bsharat](https://github.com/Darkstone2)
