@@ -7,8 +7,10 @@
 # Add the library as a refernce and use it!
 Simple example ...
 
-/*
-*/
+ /* 
+                  *  When you want to download more files use this method .
+                  *  This method take 2 overload ( for sigle link and multi link -> shoud send a string array
+                */
 
  string jsonParameter = "version";      
                                                                     // Your Json file                    //the current version  //the Json property
@@ -16,7 +18,6 @@ Simple example ...
             {
                 AutoUpdaterLibrary.AutoUpdaterLibrary
                     .StartUpdateAsync("Your Mediafire URL", null, WhenDownloadIsFinished, WhenDownloadingIsRunning).Wait();
-
                 /* 
                   *  When you want to download more files use this method .
                   *  This method take 2 overload ( for sigle link and multi link -> shoud send a string array
