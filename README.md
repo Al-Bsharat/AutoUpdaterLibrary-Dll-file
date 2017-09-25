@@ -2,10 +2,13 @@
 
 ## Getting Started
 ```AutoUpdaterLibrary : it's a library to make your Auto Updater like what you want .```
-Every new version will post here in the same Directory like this name ```AutoUpdaterLibraryV1.0``` , etc...
+
 This Library for free for ```lifetime``` :)
+
 Every Method on the class have a Description just ```hover it on your mouse!```
+
 Any questions and Tips & Problems contact me at this email ```c3dc8b8d@opayq.com  ``` 
+
 ## Prerequisites
 ```
 1- Make a json file to use it with the library .
@@ -15,7 +18,14 @@ That's all :)
 ## Installing
 Add the library as a ```reference``` and use it!
 
+## Authors
+* **Qais Bsharat** - *Programmer* - [Qais Bsharat](https://github.com/Darkstone2)
 
+## Versioning
+This is a initail V0.1 .
+Every new version will post here in the same repository like this name ```AutoUpdaterLibraryV1.0``` with it features, etc... 
+
+## Example
 ```
  string jsonParameter = "version";      
                                                                     // Your Json file                    //the current version  //the Json property
