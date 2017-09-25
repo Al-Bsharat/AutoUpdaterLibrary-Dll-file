@@ -2,7 +2,7 @@
 
 ## Getting Started
 ```AutoUpdaterLibrary : it's a library to make your Auto Updater like what you want .```
-```Every new version will post here in the same Directory like this name ```AutoUpdaterLibraryV1.0``` , etc..```
+Every new version will post here in the same Directory like this name ```AutoUpdaterLibraryV1.0``` , etc...
 This Library for free for ```lifetime``` :)
 Every Method on the class have a Description just ```hover it on your mouse!```
 Any questions and Tips & Problems contact me at this email ```c3dc8b8d@opayq.com  ``` 
