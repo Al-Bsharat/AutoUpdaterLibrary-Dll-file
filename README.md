@@ -3,7 +3,7 @@
 ## This project for free for ```lifetime``` :)
 ## Any questions and Tips & Problems contact me at this email ```c3dc8b8d@opayq.com  ```  
 ## Every Method on the class have a Description just ```hover it on your mouse!```
-## Add the library as a refernce and use it!
+## Add the library as a ```reference``` and use it!
 
 
  string jsonParameter = "version";      
