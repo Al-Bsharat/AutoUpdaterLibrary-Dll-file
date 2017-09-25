@@ -5,7 +5,7 @@
 ## Every Method on the class have a Description just ```hover it on your mouse!```
 ## Add the library as a ```reference``` and use it!
 
-
+```
  string jsonParameter = "version";      
                                                                     // Your Json file                    //the current version  //the Json property
             if (AutoUpdaterLibrary.AutoUpdaterLibrary.Check4Update("https://pastebin.com/raw/ZvF73qhu",  1.0                    , ref jsonParameter))
@@ -41,3 +41,4 @@
                 // Return total file size In(MB)
                 Console.WriteLine(AutoUpdaterLibrary.AutoUpdaterLibrary.TotalFileRecevied);
             }
+```
