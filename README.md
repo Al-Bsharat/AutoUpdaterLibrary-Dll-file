@@ -5,7 +5,7 @@
 
 This Library for free for ```lifetime``` :)
 
-Every Method on the class have a Description just ```hover it on your mouse!```
+Every Method on the class have a Description just ```hover it with your mouse!```
 
 Any questions and Tips & Problems contact me at this email ```c3dc8b8d@opayq.com  ``` 
 
