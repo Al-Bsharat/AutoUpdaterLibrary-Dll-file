@@ -1,8 +1,8 @@
 # AutoUpdaterLibrary-Dll-file
-## Every new version will post here in the same Directory like this name AutoUpdaterLibraryV1.0 , etc..
-## This project for free for lifetime :)
+## Every new version will post here in the same Directory like this name ```AutoUpdaterLibraryV1.0``` , etc..
+## This project for free for ```lifetime``` :)
 ## Any questions and Tips & Problems contact me at this email ```c3dc8b8d@opayq.com  ```  
-## Every Method on the class have a Description just hover it on your mouse!
+## Every Method on the class have a Description just ```hover it on your mouse!```
 ## Add the library as a refernce and use it!
 
 
