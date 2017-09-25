@@ -2,15 +2,8 @@
 # This project for free for lifetime :)
 # Any questions and Tips & Problems contact me at this email => c3dc8b8d@opayq.com    
 # Every Method on the class have a Description just hover it on your mouse!
-
-
 # Add the library as a refernce and use it!
-Simple example ...
 
- /* 
-                  *  When you want to download more files use this method .
-                  *  This method take 2 overload ( for sigle link and multi link -> shoud send a string array
-                */
 
  string jsonParameter = "version";      
                                                                     // Your Json file                    //the current version  //the Json property
