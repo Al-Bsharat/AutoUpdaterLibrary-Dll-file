@@ -1,4 +1,3 @@
-# AutoUpdaterLibrary-Dll-file
 # Every new version will post here in the same Directory like this name AutoUpdaterLibraryV1.0 , etc..
 # This project for free for lifetime :)
 # Any questions and Tips & Problems contact me at this email => c3dc8b8d@opayq.com    
@@ -8,6 +7,8 @@
 # Add the library as a refernce and use it!
 Simple example ...
 
+/*
+*/
 
  string jsonParameter = "version";      
                                                                     // Your Json file                    //the current version  //the Json property
