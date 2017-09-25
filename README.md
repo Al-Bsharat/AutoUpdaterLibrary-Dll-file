@@ -18,9 +18,6 @@ That's all :)
 ## Installing
 Add the library as a ```reference``` and use it!
 
-## Authors
-* **Qais Bsharat** - *Programmer* - [Qais Bsharat](https://github.com/Darkstone2)
-
 ## Versioning
 This is a initail V0.1 .
 Every new version will post here in the same repository like this name ```AutoUpdaterLibraryV1.0``` with it features, etc... 
@@ -63,3 +60,5 @@ Every new version will post here in the same repository like this name ```AutoUp
                 Console.WriteLine(AutoUpdaterLibrary.AutoUpdaterLibrary.TotalFileRecevied);
             }
 ```
+## Authors
+* **Qais Bsharat** - *Programmer* - [Qais Bsharat](https://github.com/Darkstone2)
