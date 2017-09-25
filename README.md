@@ -1,9 +1,20 @@
 # AutoUpdaterLibrary-Dll-file
-## Every new version will post here in the same Directory like this name ```AutoUpdaterLibraryV1.0``` , etc..
-## This project for free for ```lifetime``` :)
-## Any questions and Tips & Problems contact me at this email ```c3dc8b8d@opayq.com  ```  
-## Every Method on the class have a Description just ```hover it on your mouse!```
-## Add the library as a ```reference``` and use it!
+
+## Getting Started
+```AutoUpdaterLibrary : it's a library to make your Auto Updater like what you want .```
+```Every new version will post here in the same Directory like this name ```AutoUpdaterLibraryV1.0``` , etc..```
+This Library for free for ```lifetime``` :)
+Every Method on the class have a Description just ```hover it on your mouse!```
+Any questions and Tips & Problems contact me at this email ```c3dc8b8d@opayq.com  ``` 
+## Prerequisites
+```
+1- Make a json file to use it with the library .
+2- your updates link must be a mediafire -> www.mediafire.com
+```
+That's all :)
+## Installing
+Add the library as a ```reference``` and use it!
+
 
 ```
  string jsonParameter = "version";      
