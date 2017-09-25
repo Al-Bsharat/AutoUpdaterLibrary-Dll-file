@@ -19,9 +19,10 @@ That's all :)
 Add the library as a ```reference``` and use it!
 
 ## Versioning
-This is a initail V0.1 .
-Every new version will post here in the same repository like this name ```AutoUpdaterLibraryV1.0``` with it features, etc... 
-
+```
+This is a initail V0.1 , Date 25/Sep/2017
+Every new version will post here in the same repository like this name AutoUpdaterLibraryV1.0 with it features, etc... 
+```
 ## Example
 ```
  string jsonParameter = "version";      
