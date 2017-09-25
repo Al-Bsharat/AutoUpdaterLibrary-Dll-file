@@ -7,6 +7,8 @@
 
 # Add the library as a refernce and use it!
 Simple example ...
+
+
  string jsonParameter = "version";      
                                                                     // Your Json file                    //the current version  //the Json property
             if (AutoUpdaterLibrary.AutoUpdaterLibrary.Check4Update("https://pastebin.com/raw/ZvF73qhu",  1.0                    , ref jsonParameter))
